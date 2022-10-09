@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in programming :computer: 
 - :mortar_board: I’m currently finishing my master's degree in Electrical and Computers Engineering  .
-- 🌱At present I'm also learning JavaScript. I'm looking forward in learning HTML and CSS soon.
+- 🌱At present I'm also learning HTML and CSS. I'm looking forward in learning JavaScript soon.
 
 
  **Nice to meet you!** :relaxed:
